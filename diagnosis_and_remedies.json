@@ -1,0 +1,143 @@
+[
+  {
+    "symptom": "Fever",
+    "remedies": "Get plenty of rest, drink fluids, take over-the-counter fever reducers.",
+    "precautions": "Avoid strenuous activities, stay hydrated, monitor your temperature.",
+    "medicines": [
+      {
+        "name": "Acetaminophen",
+        "dosage": "500 mg",
+        "usage_instructions": "Take one tablet every 4 to 6 hours as needed with a full glass of water."
+      },
+      {
+        "name": "Ibuprofen",
+        "dosage": "200 mg",
+        "usage_instructions": "Take one tablet every 4 to 6 hours as needed with food or milk."
+      }
+    ],
+    "tests": [
+      "Complete Blood Count (CBC)",
+      "Body temperature measurement"
+    ],
+    "prescription": "Prescribe acetaminophen 500 mg as needed for fever reduction. Advise rest, hydration, and temperature monitoring. Reevaluate if fever persists."
+  },
+  {
+    "symptom": "Cough",
+    "remedies": "Stay hydrated, use a humidifier, take over-the-counter cough syrups or lozenges.",
+    "precautions": "Avoid smoking, get plenty of rest, seek medical attention if it persists for more than a few weeks.",
+    "medicines": [
+      {
+        "name": "Cough Syrup",
+        "dosage": "10 ml",
+        "usage_instructions": "Take 10 ml of cough syrup every 4 to 6 hours as needed."
+      },
+      {
+        "name": "Throat Lozenges",
+        "dosage": "1 lozenge",
+        "usage_instructions": "Dissolve one throat lozenge in your mouth every 2 to 4 hours as needed."
+      }
+    ],
+    "tests": [],
+    "prescription": "Prescribe cough syrup 10 ml as needed for cough relief. Advise hydration, humidifier use, and avoidance of smoke. Reevaluate for persistent cough."
+  },
+  {
+    "symptom": "Asthma Attack",
+    "remedies": "Use a nebulizer with a bronchodilator medication (e.g., albuterol) as prescribed.",
+    "precautions": "Sit upright, use a spacer if available, seek emergency medical care if symptoms worsen.",
+    "medicines": [
+      {
+        "name": "Albuterol",
+        "dosage": "2.5 mg",
+        "usage_instructions": "Administer 2.5 mg of albuterol via nebulizer every 20 minutes for the first hour, then as needed."
+      }
+    ],
+    "tests": [],
+    "prescription": "Prescribe albuterol via nebulizer as directed for acute asthma attack. Advise the patient to sit upright, use a spacer if available, and seek emergency care if symptoms worsen."
+  },
+  {
+    "symptom": "COPD Exacerbation",
+    "remedies": "Use a nebulizer with bronchodilators and corticosteroids as prescribed.",
+    "precautions": "Avoid irritants, follow a maintenance medication schedule, seek medical attention if symptoms worsen.",
+    "medicines": [
+      {
+        "name": "Combivent",
+        "dosage": "2.5 ml",
+        "usage_instructions": "Administer 2.5 ml of Combivent via nebulizer every 6 hours as prescribed."
+      },
+      {
+        "name": "Budesonide",
+        "dosage": "0.5 mg",
+        "usage_instructions": "Administer 0.5 mg of budesonide via nebulizer daily as prescribed."
+      }
+    ],
+    "tests": [],
+    "prescription": "Prescribe Combivent and budesonide via nebulizer as directed for COPD exacerbation. Advise avoiding irritants, following a medication schedule, and seeking medical attention if symptoms worsen."
+  },
+  {
+    "symptom": "Cystic Fibrosis",
+    "remedies": "Use a nebulizer to administer mucolytic and antibiotic medications as prescribed.",
+    "precautions": "Maintain a daily treatment regimen, stay hydrated, follow recommended exercise, and dietary plans.",
+    "medicines": [
+      {
+        "name": "Pulmozyme",
+        "dosage": "2.5 mg",
+        "usage_instructions": "Administer 2.5 mg of Pulmozyme via nebulizer daily as prescribed."
+      },
+      {
+        "name": "Tobramycin",
+        "dosage": "300 mg",
+        "usage_instructions": "Administer 300 mg of tobramycin via nebulizer twice daily as prescribed."
+      }
+    ],
+    "tests": [],
+    "prescription": "Prescribe Pulmozyme and tobramycin via nebulizer as directed for cystic fibrosis management. Advise maintaining a daily treatment regimen, staying hydrated, and following recommended exercise and dietary plans."
+  },
+  {
+    "symptom": "Respiratory Infection",
+    "remedies": "Use a nebulizer with antibiotics and expectorants as prescribed.",
+    "precautions": "Finish the full course of antibiotics, practice good respiratory hygiene, seek medical attention if symptoms worsen.",
+    "medicines": [
+      {
+        "name": "Amikacin",
+        "dosage": "500 mg",
+        "usage_instructions": "Administer 500 mg of amikacin via nebulizer once daily as prescribed."
+      },
+      {
+        "name": "Guaifenesin",
+        "dosage": "100 mg",
+        "usage_instructions": "Administer 100 mg of guaifenesin via nebulizer every 6 hours as prescribed."
+      }
+    ],
+    "tests": [],
+    "prescription": "Prescribe amikacin and guaifenesin via nebulizer as directed for respiratory infection. Advise completing the full course of antibiotics, practicing good respiratory hygiene, and seeking medical attention if symptoms worsen."
+  },
+  {
+    "symptom": "Infant with Respiratory Distress",
+    "remedies": "Use a nebulizer with epinephrine as part of emergency treatment.",
+    "precautions": "Administer epinephrine per pediatric dosing guidelines, seek immediate medical care.",
+    "medicines": [
+      {
+        "name": "Epinephrine",
+        "dosage": "0.1 mg/kg",
+        "usage_instructions": "Administer 0.1 mg/kg of epinephrine via nebulizer as directed in pediatric dosing guidelines."
+      }
+    ],
+    "tests": [],
+    "prescription": "Prescribe epinephrine via nebulizer for an infant with respiratory distress as part of emergency treatment. Administer according to pediatric dosing guidelines and seek immediate medical care."
+  },
+  {
+    "symptom": "Croup",
+    "remedies": "Use a nebulizer with epinephrine for severe cases, keep the child calm, provide humidified air.",
+    "precautions": "Administer epinephrine per pediatric dosing guidelines, seek immediate medical care if severe symptoms persist.",
+    "medicines": [
+      {
+        "name": "Epinephrine",
+        "dosage": "0.25 mg/kg",
+        "usage_instructions": "Administer 0.25 mg/kg of epinephrine via nebulizer as directed in pediatric dosing guidelines."
+      }
+    ],
+    "tests": [],
+    "prescription": "Prescribe epinephrine via nebulizer for croup in severe cases. Administer according to pediatric dosing guidelines. Advise keeping the child calm and providing humidified air. Seek immediate medical care if severe symptoms persist."
+  },
+  // Add more symptoms with associated information
+]
