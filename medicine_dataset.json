@@ -1,0 +1,195 @@
+[
+  {
+    "name": "Aspirin",
+    "description": "Aspirin is a nonsteroidal anti-inflammatory drug (NSAID) used to treat pain, fever, and inflammation. It also has antiplatelet properties.",
+    "indications": [
+      "Pain relief",
+      "Fever reduction",
+      "Inflammation management"
+    ],
+    "dosage_forms": [
+      {
+        "form": "Tablet",
+        "strength": "325 mg",
+        "usage_instructions": "Take one tablet every 4 to 6 hours as needed with food or a full glass of water."
+      },
+      {
+        "form": "Chewable Tablet",
+        "strength": "81 mg",
+        "usage_instructions": "Chew or crush the tablet and swallow with or without water."
+      }
+    ],
+    "side_effects": [
+      "Upset stomach",
+      "Heartburn",
+      "Dizziness",
+      "Ringing in the ears",
+      "Allergic reactions (rare)"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "description": "Ibuprofen is an NSAID used to relieve pain, reduce inflammation, and lower fever.",
+    "indications": [
+      "Pain relief",
+      "Fever reduction",
+      "Inflammation management"
+    ],
+    "dosage_forms": [
+      {
+        "form": "Tablet",
+        "strength": "200 mg",
+        "usage_instructions": "Take one tablet every 4 to 6 hours as needed with food or milk."
+      },
+      {
+        "form": "Liquid Suspension",
+        "strength": "100 mg/5 ml",
+        "usage_instructions": "Shake well before use. Measure the liquid using the provided dosing cup."
+      }
+    ],
+    "side_effects": [
+      "Upset stomach",
+      "Heartburn",
+      "Headache",
+      "Dizziness",
+      "Allergic reactions (rare)"
+    ]
+  },
+  {
+    "name": "Paracetamol",
+    "description": "Paracetamol, also known as acetaminophen, is a medication used to treat pain and fever. It is commonly used for mild to moderate pain and can reduce fever.",
+    "indications": [
+      "Pain relief",
+      "Fever reduction"
+    ],
+    "dosage_forms": [
+      {
+        "form": "Tablet",
+        "strength": "500 mg",
+        "usage_instructions": "Take one to two tablets every 4 to 6 hours as needed with a full glass of water."
+      },
+      {
+        "form": "Liquid Suspension",
+        "strength": "120 mg/5 ml",
+        "usage_instructions": "Shake well before use. Measure the liquid using the provided dosing spoon."
+      }
+    ],
+    "side_effects": [
+      "Nausea",
+      "Vomiting",
+      "Liver damage (rare)"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "description": "Loratadine is an antihistamine used to relieve allergy symptoms such as runny nose, sneezing, itchy or watery eyes, and itching of the throat or nose.",
+    "indications": [
+      "Allergy relief"
+    ],
+    "dosage_forms": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "usage_instructions": "Take one tablet daily with or without food."
+      },
+      {
+        "form": "Oral Syrup",
+        "strength": "5 mg/5 ml",
+        "usage_instructions": "Shake well before use. Measure the syrup using the provided dosing spoon."
+      }
+    ],
+    "side_effects": [
+      "Headache",
+      "Dry mouth",
+      "Fatigue"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "description": "Ciprofloxacin is an antibiotic used to treat a variety of bacterial infections. It works by stopping the growth of bacteria.",
+    "indications": [
+      "Bacterial infection treatment"
+    ],
+    "dosage_forms": [
+      {
+        "form": "Tablet",
+        "strength": "500 mg",
+        "usage_instructions": "Take one tablet twice daily, at least 2 hours before or 6 hours after antacids or dairy products."
+      },
+      {
+        "form": "Oral Suspension",
+        "strength": "250 mg/5 ml",
+        "usage_instructions": "Shake well before use. Measure the suspension using the provided dosing cup."
+      }
+    ],
+    "side_effects": [
+      "Nausea",
+      "Diarrhea",
+      "Joint pain",
+      "Tendonitis"
+    ]
+  },
+  {
+    "name": "Omeprazole",
+    "description": "Omeprazole is a proton pump inhibitor (PPI) used to reduce stomach acid production. It is used to treat conditions such as heartburn, gastroesophageal reflux disease (GERD), and stomach ulcers.",
+    "indications": [
+      "Acid reflux relief",
+      "Stomach ulcer treatment"
+    ],
+    "dosage_forms": [
+      {
+        "form": "Capsule",
+        "strength": "20 mg",
+        "usage_instructions": "Take one capsule daily before a meal."
+      },
+      {
+        "form": "Oral Suspension",
+        "strength": "10 mg/5 ml",
+        "usage_instructions": "Shake well before use. Measure the suspension using the provided dosing syringe."
+      }
+    ],
+    "side_effects": [
+      "Headache",
+      "Nausea",
+      "Diarrhea"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "description": "Amoxicillin is an antibiotic used to treat a wide range of bacterial infections. It is a penicillin-type antibiotic.",
+    "indications": [
+      "Bacterial infection treatment"
+    ],
+    "dosage_forms": [
+      {
+        "form": "Capsule",
+        "strength": "500 mg",
+        "usage_instructions": "Take one capsule three times daily with or without food."
+      },
+      {
+        "form": "Oral Suspension",
+        "strength": "250 mg/5 ml",
+        "usage_instructions": "Shake well before use. Measure the suspension using the provided dosing syringe."
+      }
+    ],
+    "side_effects": [
+      "Nausea",
+      "Diarrhea",
+      "Skin rash"
+    ]
+  },
+  {
+    "name": "Alprazolam",
+    "description": "Alprazolam, commonly known as Xanax, is a medication used to treat anxiety and panic disorders. It belongs to the benzodiazepine class of drugs.",
+    "indications": [
+      "Anxiety relief",
+      "Panic disorder treatment"
+    ],
+    "dosage_forms": [
+      {
+        "form": "Tablet",
+        "strength": "0.25 mg",
+        "usage_instructions": "Take one tablet two to three times daily as needed."
+      },
+      {
+        "form
